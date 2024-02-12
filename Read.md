@@ -1,0 +1,2 @@
+This is a beginner-friendly Power BI project. 
+The data used for the analysis is provided in Excel. The data is transformed using various methods in Power Query and then loaded into Power BI for visualization.
